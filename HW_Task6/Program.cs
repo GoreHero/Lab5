@@ -93,6 +93,7 @@ namespace HW_Task6
                 Console.WriteLine(Success);
             else
                 Console.WriteLine(Fail);
+            Console.ReadKey();
         }
     }
 }
